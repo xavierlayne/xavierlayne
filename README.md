@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./avatar.png" width="130" height="130" alt="xavierlayne avatar" style="border-radius: 50%; border: 2px solid #00FF66;" />
+
 ```text
 ██╗  ██╗ █████╗ ██╗   ██╗██╗███████╗██████╗     ██╗      █████╗ ██╗   ██╗███╗   ██╗███████╗
 ╚██╗██╔╝██╔══██╗██║   ██║██║██╔════╝██╔══██╗    ██║     ██╔══██╗╚██╗ ██╔╝████╗  ██║██╔════╝
