@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./avatar.png" width="130" height="130" alt="xavierlayne avatar" style="border-radius: 50%; border: 2px solid #00FF66;" />
+<img src="https://raw.githubusercontent.com/xavierlayne/xavierlayne/main/avatar.png" width="130" height="130" alt="xavierlayne avatar" style="border-radius: 50%; border: 2px solid #00FF66;" />
 
 ```text
 ██╗  ██╗ █████╗ ██╗   ██╗██╗███████╗██████╗     ██╗      █████╗ ██╗   ██╗███╗   ██╗███████╗
@@ -105,15 +105,15 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=xavierlayne&show_icons=true&theme=matrix&hide_border=false&bg_color=000000&border_color=00FF66" alt="Stats Matrix" width="100%" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=xavierlayne&show_icons=true&title_color=00FF66&text_color=00FF66&icon_color=00FF66&border_color=00FF66&bg_color=000000&hide_border=false" alt="Stats Matrix" width="100%" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavierlayne&layout=compact&theme=matrix&hide_border=false&bg_color=000000&border_color=00FF66" alt="Langs Matrix" width="100%" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=xavierlayne&layout=compact&title_color=00FF66&text_color=00FF66&border_color=00FF66&bg_color=000000&hide_border=false" alt="Langs Matrix" width="100%" />
       </td>
     </tr>
   </table>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xavierlayne&theme=matrix&hide_border=false&background=000000&border=00FF66&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" alt="Streak Matrix" width="80%" />
+  <img src="https://streak-stats.demolab.com?user=xavierlayne&theme=matrix&hide_border=false&background=000000&border=00FF66&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" alt="Streak Matrix" width="80%" />
 </div>
 
 ---
