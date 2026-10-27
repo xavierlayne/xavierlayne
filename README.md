@@ -83,12 +83,9 @@
 ┌──────────────────────┬────────────────────────────────────────────────────────┬──────────────────┐
 │ IDENTIFIER           │ SYSTEM SCOPE & PURPOSE                                 │ SOURCE           │
 ├──────────────────────┼────────────────────────────────────────────────────────┼──────────────────┤
-│ ReaJarvis            │ Autonomous multi-agent swarm & voice execution engine   │ [github.com/..]  │
 │ ReaPCBooster         │ Low-latency Windows kernel/process optimization tool   │ [github.com/..]  │
-│ ReaLocalizer         │ Binary satellite DLL & in-memory translation pipeline │ [github.com/..]  │
 │ ReaUninstallerPro    │ Registry tracker & residual software uninstaller       │ [github.com/..]  │
-│ ReaIcarus            │ CryEngine MMORPG client/server reverse engineering     │ [profile]        │
-│ Blish HUD TR         │ Native game overlay reverse engineering & Turkish port │ [profile]        │
+│                      │                                                        │                  │
 └──────────────────────┴────────────────────────────────────────────────────────┴──────────────────┘
 ```
 
